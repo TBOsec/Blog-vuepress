@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+desktop.ini
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.log
+*.tmp
+*.swp
+*~
+node_modules/
+venv/
+__pycache__/
+build/
+*.env
+docs/.vuepress/.temp
+docs/.vuepress/.cache
+docs/.vuepress/dist
